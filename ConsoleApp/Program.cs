@@ -11,13 +11,13 @@ ICountryTaxCalculator oTaxCalculatorForIN = new TaxCalculatorForIN();
 
 #region Setting Values
 
-oTaxCalculatorForUS.TotalIncome = 100000;  // Example value for TotalIncome in USD
-oTaxCalculatorForUS.TotalDeduction = 15000;  // Example value for TotalDeduction in USD
+oTaxCalculatorForUS.TotalIncome = 100000; 
+oTaxCalculatorForUS.TotalDeduction = 15000;  
 
-oTaxCalculatorForUK.TotalIncome = 80000;  // Example value for TotalIncome in GBP
-oTaxCalculatorForUK.TotalDeduction = 12000;  // Example value for TotalDeduction in GBP
+oTaxCalculatorForUK.TotalIncome = 80000; 
+oTaxCalculatorForUK.TotalDeduction = 12000; 
 
-oTaxCalculatorForIN.TotalIncome = 6000000;  // Example value for TotalIncome in INR
+oTaxCalculatorForIN.TotalIncome = 6000000;  
 oTaxCalculatorForIN.TotalDeduction = 500000;
 
 #endregion
