@@ -1,0 +1,14 @@
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp Generator\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
